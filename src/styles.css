@@ -1,0 +1,49 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #8bbedd;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  background-color: #8bbedd;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+/* Style for images */
+img {
+  width: 100%;         
+  max-width: 400px;    
+  height: auto;        
+  margin-bottom: 20px; 
+  display: block;      
+  margin-left: auto;   
+  margin-right: auto;  
+}
+
+/* Style for Content */
+div {
+  margin: 20px;
+}
